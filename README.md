@@ -98,10 +98,6 @@ I have worked with platforms such as:
 
 My experience includes creating templates, editing campaigns, and integrating email forms or automations depending on project requirements.
 
-**Option 2 – if you want to stay honest and simple:**
-
-I have experience primarily with HTML/CSS email structure and web development workflows. While my direct hands-on use of ESPs may be limited, I am comfortable adapting templates for platforms such as Mailchimp, Klaviyo, Brevo, or similar systems.
-
 ---
 
 ## Submission Notes
